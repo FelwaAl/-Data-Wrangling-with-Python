@@ -1,16 +1,16 @@
 README.txt  
-#Project Title: Real-World Data Wrangling: Movie Metadata and Ratings  
+Project Title: Real-World Data Wrangling: Movie Metadata and Ratings  
 Author: Felwah Alarifi  
 File: Project_Real_World_Data_Wrangling_with_Python.ipynb  
 
 ---
 
-##Project Description  
+Project Description  
 This project demonstrates real-world data wrangling and analysis techniques using publicly available movie datasets (from IMDb and Kaggle). The goal is to assess and clean raw data, then integrate it to answer a key research question related to movie popularity and characteristics.
 
 ---
 
-##Objectives  
+Objectives  
 1. Data Gathering  
    - Manual and programmatic acquisition of multiple movie-related datasets (e.g., ratings, metadata, and keywords).
 
@@ -29,14 +29,14 @@ This project demonstrates real-world data wrangling and analysis techniques usin
 
 ---
 
-##Files Included  
+Files Included  
 - Project_Real_World_Data_Wrangling_with_Python.ipynb: The main Jupyter Notebook containing all code, cleaning logic, and analysis steps.  
 - .csv: The dataset used (uploaded separately).  
 - README.txt: This instruction file.
 
 ---
 
-##Dependencies  
+Dependencies  
 This project requires the following Python libraries (all available in Google Colab):
 
 - pandas  
